@@ -1,0 +1,91 @@
+h1{
+    text-align:center;
+    font-family: 'Lobster', cursive;
+    font-size:80px;
+    color:#FF7433;
+}
+
+p{
+   font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    color:#000000;
+}
+
+body{
+    background-color:#FF7F50;
+    background-image: url("https://previews.123rf.com/images/matttilda/matttilda1209/matttilda120900020/15417704-vintage-photography-background.jpg"); 
+    min-width:500px;
+    min-height:200px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ 
+}
+
+li{
+    color:blue;
+    font-size:18px;
+}
+
+.name{
+   background-color:#ff8c69;
+}
+
+.grade{ 
+    background-color:#FFFFF0;
+}
+
+.color{
+    background-color:#ff8c69;
+}
+
+.fiveyears{
+    background-color:#FFFFF0;
+}
+
+.things{
+    background-color:#ff8c69;
+}
+
+.coding{
+    background-color:#FFFFF0;
+}
+
+.fun{
+    background-color:#ff8c69;
+}
+
+img{
+    width:500px;
+    height:200px;
+}
+
+.entertainment{
+    background-color:#FFFFF0;
+}
+
+.anime{
+    color:blue;
+    background-color:#ff8c69;
+}
+
+.youtube{
+    color:blue;
+    background-color:#FFFFF0;
+}
+
+
+.music{
+    width:300px;
+    height:200px;
+}
+
+.minaj{
+    width:300px;
+    height:200px;
+}
